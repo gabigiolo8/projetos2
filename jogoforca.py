@@ -1,3 +1,5 @@
+#integrantes : Gabriela Giolo, Julia Parizotto
+
 import time
 import random 
 import os
